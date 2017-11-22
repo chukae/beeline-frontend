@@ -30,6 +30,7 @@ require('./services/GeoUtils');
 require('./directives/mapBusPolyRoute');
 require('./directives/mapBusIcon');
 require('./directives/routeItem/animatedRoute');
+require('./directives/routeShare')
 require('./services/assetScopeModalService');
 require('./services/fastCheckoutService');
 require('./services/purchaseRoutePassService');
